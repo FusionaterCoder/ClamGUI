@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to ClamGUI
 
-You can use the [editor on GitHub](https://github.com/FusionaterCoder/ClamGUI/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+ClamGUI is a free, open-source front-end, or graphical user interface for [ClamAV](https://clamav.net)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ClamGUI has a website that is UNDER CONSTRUCTION!
 
 ### Markdown
 
